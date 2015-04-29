@@ -1,0 +1,1 @@
+# Webp imagemin plugin test
